@@ -123,6 +123,7 @@ void regenkreisel()
       regenbogenindex[i]=0;
     }
   }
+  pixels.show();
 }
 
 void theaterChase(uint32_t c, uint8_t wait) {
