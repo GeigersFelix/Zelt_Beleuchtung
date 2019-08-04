@@ -1,0 +1,20 @@
+Schritt 1:
+  Beleuchtung via Powerbank mit Strom versorgen, am Handy Bluetooth einschalten
+ 
+Schritt 1.1 (NUR BEIM ERSTEN MAL):
+  In den Einstellungen des Handys bei "Bluetooth" das Gerät "HC-05" suchen (evtl. unter "selten verwendete Geräte" und mit ihm koppeln (Code: 1234)
+
+Schritt 2: 
+  Beleuchtungs-App öffnen
+  
+Schritt 3:
+  Großes, blaues Bluetooth-Feld anklicken
+  
+Schritt 4:
+  Aus der nun erschienenen Liste "HC-05" auswählen
+  
+Schritt 5: 
+  Farben/Animationen nach belieben ändern
+  
+  
+Achtung: sollte die Fehlermeldung "Broken Pipe" erscheinen, oder nach einiger Zeit die Animation nicht wechseln, Schritt 3+4 wiederholen.
